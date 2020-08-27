@@ -8,7 +8,7 @@ import java.io.Serializable;
 public class Account implements Serializable {
 
     private int id;//哈哈
-    private String name;
+    private String name;//嘿嘿
     private double money;
 
     public Account() {
